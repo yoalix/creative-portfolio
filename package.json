@@ -9,9 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-three/drei": "^9.85.0",
+    "@react-three/fiber": "^8.14.3",
+    "@react-three/postprocessing": "^2.15.1",
+    "@react-three/rapier": "^1.1.1",
+    "@types/three": "^0.156.0",
+    "glslify-loader": "^2.0.0",
+    "leva": "^0.9.35",
+    "next": "latest",
+    "r3f-perf": "^7.1.2",
     "react": "latest",
     "react-dom": "latest",
-    "next": "latest"
+    "three": "^0.156.1"
   },
   "devDependencies": {
     "typescript": "latest",
